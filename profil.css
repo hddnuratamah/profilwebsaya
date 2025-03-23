@@ -1,0 +1,49 @@
+.saya{
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+ 
+}
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 150px;
+}
+
+.container h2{ color: aliceblue;}
+.container h5{color: white;
+transform: translateY(-10px);}
+
+body{
+  background: linear-gradient(rgb(121, 222, 208)0%, rgb(163, 220, 235)20%, rgb(248, 253, 251)80%)
+}
+
+.buttonsaya{
+  transform: translate(-10px);
+}
+.row{
+  padding: 0px 30px;
+}
+.container2{
+  background: linear-gradient(#f3f4f5, rgb(121, 222, 208)40%, rgb(163,220,235)80%);
+  padding-top: 55px;
+}
+.Achievment{
+  padding-top: 55px;
+}
+
+  .footer{
+    background-color:#f3f4f5;
+    padding-bottom: 20px;
+    padding-top: 55px;
+  
+  }
+  .marker{
+    font-size: 30px;
+  }
+  
+  .watermark{
+    padding-top: 40px;
+  }
